@@ -48,9 +48,10 @@
 
 2. Get Session ID (QR)
     <br>
-<a href='https://suhail-md-vtsf.onrender.com/scan' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://suhail-md-vtsf.onrender.com/scan' target="_blank"><img alt='SESSION ID'
+src="https://img.shields.io/badge/PAIR SESSION-h?color=black&style=for-the-badge&logo=qr"></a>
 
-3. Get Session ID (PAIR)
+4. Get Session ID (PAIR)
     <br>
 <a href='https://suhail-md-vtsf.onrender.com/code' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
