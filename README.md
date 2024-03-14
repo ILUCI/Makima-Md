@@ -48,7 +48,7 @@
 
 2. Get Session ID (QR)
     <br>
-<a href='https://suhail-md-vtsf.onrender.com/scan' target="_blank"><img alt='SESSION ID'
+<a href='https://upper-romy-inrl-bot.koyeb.app/session/code' target="_blank"><img alt='SESSION ID'
 src="https://img.shields.io/badge/PAIR SESSION-h?color=black&style=for-the-badge&logo=qr"></a>
 
 4. Get Session ID (PAIR)
